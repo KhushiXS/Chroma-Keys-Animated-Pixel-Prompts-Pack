@@ -1,6 +1,5 @@
-=============================================================================
 Chroma Keys: Animated Pixel Prompts Pack
-=============================================================================
+
 
 Thank you for downloading the Chroma Keys asset pack! 
 This pack provides universally applicable, crisp, and animated keyboard input 
