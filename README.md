@@ -1,11 +1,12 @@
-Chroma Keys: Animated Pixel Prompts Pack
+# Chroma Keys: Animated Pixel Prompts Pack
 
+itch.io:https://codec1973.itch.io/chroma-keyboard-ui-16x16
 
 Thank you for downloading the Chroma Keys asset pack! 
 This pack provides universally applicable, crisp, and animated keyboard input 
 prompts designed for indie games.
 
-[ OVERVIEW ]
+## [ OVERVIEW ]
 - Includes 5 distinct color themes:
   01. Mecha Blue (Sci-Fi/Mechanical)
   02. Retro Console (Classic/Vintage)
@@ -14,7 +15,7 @@ prompts designed for indie games.
   05. Cozy Wood (Fantasy/Farming RPG)
 - Contains complete A-Z keys and blank base templates.
 
-[ PREMIUM GIFT PACK ($2+) ]
+## [ PREMIUM GIFT PACK ($2+) ]
 While the ready-to-use PNG files are completely free, purchasing the Premium Gift Pack for $2 or more grants you access to the raw source files and exclusive bonuses, while directly supporting my work!
 
 The Premium Pack includes:
@@ -22,23 +23,23 @@ The Premium Pack includes:
 - Bonus "Hello World" Animation GIF: A polished, ready-to-reference typing animation showcasing the keys in action.
 - "Hello World" .aseprite Source File: See exactly how the typing animation is constructed frame-by-frame and use it as a template for your own UI sequences.
 
-[ TECHNICAL SPECIFICATIONS ]
+## [ TECHNICAL SPECIFICATIONS ]
 - Base Size: 16x16 pixels per key.
 - Format: Transparent PNG.
 - Animation: 2 Frames per key (Frame 1: Normal / Frame 2: Pressed).
 
-[ HOW TO SCALE (IMPORTANT) ]
+## [ HOW TO SCALE (IMPORTANT) ]
 These assets are drawn at a native 16x16 resolution. 
 To scale them up for higher-resolution games WITHOUT losing the crisp pixel art look:
 1. Scale by exact integer multiples (e.g., 200% for 32x32, 300% for 48x48).
 2. Ensure your game engine's texture filter is set to "Nearest" or "Point" (No Filter). 
    - In Godot: Project Settings -> Rendering -> Textures -> Default Texture Filter: Nearest.
 
-[ HOW TO ANIMATE ]
+## [ HOW TO ANIMATE ]
 The "pressed" effect is achieved by simply swapping between the Normal and Pressed frames.
 The keycap physically moves down, providing an instant tactile feedback sensation. 
 
-[ LICENSE ]
+## [ LICENSE ]
 This asset pack is subject to the following terms:
 
 1. Free & Paid Versions: You are free to use these assets in both personal and commercial projects.
